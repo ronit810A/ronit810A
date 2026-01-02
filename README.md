@@ -1,6 +1,4 @@
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ronit810a@gmail.com) 
+# 💫 Hi 👋, I'm RONIT KUMAR
 <!-- Snake Game Repo View -->
 
 <div align="center">
