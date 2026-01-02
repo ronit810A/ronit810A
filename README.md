@@ -12,14 +12,14 @@
 
 <!-- GitHub Streak -->
 <div align="center">
-  <a href="https://github.com/CyberVerve07">
+  <a href="https://github.com/ronit810A">
     <img src="https://nirzak-streak-stats.vercel.app?user=CyberVerve07&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=00FF41&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=C9D1D9&stroke=7C3AED&currStreakNum=00FF41&sideNums=00FF41&border_radius=10" alt="GitHub Streak" />
   </a>
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
-  <a href="https://github.com/CyberVerve07">
+  <a href="https://github.com/ronit810A">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberVerve07&bg_color=0d1117&color=7c3aed&line=00ff41&point=00ff41&area=true&hide_border=true&custom_title=Contribution%20Graph&title_color=7c3aed&area_color=7c3aed&radius=10" alt="Contribution Graph" width="95%"/>
   </a>
 </div>
