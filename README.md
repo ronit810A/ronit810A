@@ -24,6 +24,12 @@
   </a>
 </div>
 
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=ronit810A&theme=monokai&no-frame=true&no-bg=true&margin-w=15&title=Stars,Commit,Repositories,PullRequest,Issues,Followers,Contributions,MultiLanguage" />
+</p>
+
+
 
 
 
