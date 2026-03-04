@@ -10,6 +10,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) !
 ## 📊 GitHub Analytics
 
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=ronit810A&theme=tokyonight&hide_border=true" />
+
 <!-- GitHub Streak -->
 <div align="center">
   <a href="https://github.com/ronit810A">
