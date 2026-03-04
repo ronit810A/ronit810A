@@ -10,11 +10,9 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) !
 ## 📊 GitHub Analytics
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=ronit810A&theme=tokyonight&hide_border=true" />
-
 <!-- GitHub Streak -->
 <div align="center">
-  <a href="https://github.com/ronit810A">
+ <img src="https://github-readme-streak-stats-eight.vercel.app?user=ronit810A&theme=tokyonight&hide_border=true" />
     <img src="https://nirzak-streak-stats.vercel.app?user=ronit810A&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=00FF41&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=C9D1D9&stroke=7C3AED&currStreakNum=00FF41&sideNums=00FF41&border_radius=10" alt="GitHub Streak" />
   </a>
 </div>
