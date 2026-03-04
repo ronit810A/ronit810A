@@ -13,8 +13,6 @@
 <!-- GitHub Streak -->
 <div align="center">
  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ronit810A&theme=tokyonight&hide_border=true" />
-    <img src="https://nirzak-streak-stats.vercel.app?user=ronit810A&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=00FF41&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=C9D1D9&stroke=7C3AED&currStreakNum=00FF41&sideNums=00FF41&border_radius=10" alt="GitHub Streak" />
-  </a>
 </div>
 
 <!-- Activity Graph -->
