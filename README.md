@@ -15,12 +15,6 @@
  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ronit810A&theme=tokyonight&hide_border=true" />
 </div>
 
-<!-- Activity Graph -->
-<div align="center">
-  <a href="https://github.com/ronit810A">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ronit810A&bg_color=0d1117&color=7c3aed&line=00ff41&point=00ff41&area=true&hide_border=true&custom_title=Contribution%20Graph&title_color=7c3aed&area_color=7c3aed&radius=10" alt="Contribution Graph" width="95%"/>
-  </a>
-</div>
 
 ## 🏆 GitHub Trophies  
 <p align="center">
