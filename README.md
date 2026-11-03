@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ronit810A/ronit810A/main/github-banner.png" width="100%" alt="Ronit Kumar Full Stack Developer"/>
+<img src="https://raw.githubusercontent.com/ronit810A/ronit810A/main/github-banne.png" width="100%" alt="Ronit Kumar Full Stack Developer"/>
 
 </div>
 
