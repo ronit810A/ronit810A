@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="./github-banner.png" width="100%" alt="Ronit Kumar Banner">
+</div>
+
+
 <!-- ================= HEADER BANNER ================= -->
 
 <div align="center">
