@@ -112,23 +112,6 @@ Building modern, responsive and user-friendly web experiences.
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ronit810A&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronit810A&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=ronit810A&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 <!-- ================= CONNECT ================= -->
 
