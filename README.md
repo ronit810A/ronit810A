@@ -1,13 +1,10 @@
 <div align="center">
-  <img src="./github-banner.png" width="100%" alt="Ronit Kumar Banner">
+  <img
+    src="https://raw.githubusercontent.com/ronit810A/ronit810A/main/github-banner.png"
+    width="100%"
+    alt="Ronit Kumar - Full Stack Developer"
+  />
 </div>
-
-
-<!-- ================= HEADER BANNER ================= -->
-
-<div align="center">
-
-<img src="./assets/github-banner.png" width="100%" alt="Ronit Kumar - Full Stack Developer"/>
 
 # 👋 Hi, I'm Ronit Kumar
 
