@@ -71,15 +71,13 @@ Building modern, responsive and user-friendly web experiences.
 ---
 
 
+
 ## 📊 Languages Used in My Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronit810A&layout=donut&theme=tokyonight&hide_border=true&langs_count=10" width="450" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ronit810A&layout=donut&theme=tokyonight&hide_border=true&langs_count=10" width="450" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronit810A&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 
 <!-- ================= PROJECTS ================= -->
